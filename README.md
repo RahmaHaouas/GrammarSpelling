@@ -24,3 +24,8 @@ $ (venv) pip install Flask language-tool-python textblob
 ```
 $ (venv) python app.py
 ```
+### Result
+![Capture d’écran (382)](https://github.com/RahmaHaouas/GrammarSpelling/assets/93491702/59f0f213-a34a-42d6-9312-57dc1b5ac47c)
+
+## Enjoy !
+
