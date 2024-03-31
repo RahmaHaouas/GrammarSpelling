@@ -6,6 +6,7 @@ Dataset: https://www.kaggle.com/datasets/satishgunjal/grammar-correction/data
 
 ## Interface
 Open Anaconda Prompt : https://www.anaconda.com/download
+Create a "templates" folder, inside which you should paste the index.html file.
 ### Initial Setup:
 ```
 $ git clone https://github.com/RahmaHaouas/GrammarSpelling.git
