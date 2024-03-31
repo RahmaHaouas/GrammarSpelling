@@ -6,13 +6,19 @@ Dataset: https://www.kaggle.com/datasets/satishgunjal/grammar-correction/data
 
 ## Interface
 ### Initial Setup:
+```
 $ git clone https://github.com/RahmaHaouas/GrammarSpelling.git
 $ cd GrammarSpelling
 $ python -m venv venv
 $ . venv/bin/activate
+```
 
 ### Install dependencies
+```
 $ (venv) pip install Flask language-tool-python textblob
+```
 
 ### Run
+```
 $ (venv) python app.py
+```
